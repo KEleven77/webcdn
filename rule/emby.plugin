@@ -9,8 +9,8 @@
 DOMAIN-SUFFIX, reddust.link, Emby
 
 # 垃圾影音
-DOMAIN, cf.xmsl.org, DIRECT
-DOMAIN, cf.emby.moe, DIRECT
+DOMAIN, cf.xmsl.org, Emby
+DOMAIN, cf.emby.moe, Emby
 
 # 普拉斯影业
 DOMAIN, emby-best.xeton.dev, DIRECT
