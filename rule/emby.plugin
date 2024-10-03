@@ -10,6 +10,7 @@ DOMAIN-SUFFIX, reddust.link, Emby
 
 # 垃圾影音
 DOMAIN, cf.xmsl.org, DIRECT
+DOMAIN, cf.emby.moe, DIRECT
 
 # 普拉斯影业
 DOMAIN, emby-best.xeton.dev, DIRECT
@@ -77,10 +78,6 @@ DOMAIN, 789.123456.al, Emby
 
 #StarCat
 DOMAIN, flare.catlinks.co.uk, Emby
-
-#垃圾影音
-DOMAIN, cf.emby.moe, Emby
-DOMAIN, cf.xmsl.org, Emby
 
 #终点站
 DOMAIN, pub1.emby.wtf, Emby
