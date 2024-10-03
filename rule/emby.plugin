@@ -80,11 +80,21 @@ DOMAIN, flare.catlinks.co.uk, Emby
 
 #垃圾影音
 DOMAIN, cf.emby.moe, Emby
+DOMAIN, cf.xmsl.org, Emby
 
 #终点站
-DOMAIN-SUFFIX, emby.wtf, Emby
+DOMAIN, pub1.emby.wtf, Emby
+DOMAIN, pub2.emby.wtf, Emby
+DOMAIN, pub3.emby.wtf, Emby
 
-DOMAIN-SUFFIX,ohhhh.org
-DOMAIN-SUFFIX,xmsl.org
-DOMAIN-SUFFIX,9521732.xyz
-DOMAIN-SUFFIX,cf.otv.icu
+#AWA影视
+DOMAIN, tv.811861.xyz, Emby
+
+#牢大
+DOMAIN, emby-micax-ca-v2.mius.uk, Emby
+
+#阿甘
+DOMAIN-SUFFIX, aganemby.top, Emby
+
+#temby
+DOMAIN, temby.285286.xyz, Emby
