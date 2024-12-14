@@ -92,3 +92,6 @@ DOMAIN, emby-micax-ca-v2.mius.uk, Emby
 
 #阿甘
 DOMAIN-SUFFIX, aganemby.top, DIRECT
+
+#Aurora
+DOMAIN,abc.auroramedia.vip,Emby
