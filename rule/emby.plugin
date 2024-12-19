@@ -44,9 +44,6 @@ DOMAIN-SUFFIX, emby.aca.best, Emby
 # NMEmby
 DOMAIN, film.ohhhh.org, Emby
 
-# Temby
-DOMAIN, temby.285286.xyz, Emby
-DOMAIN, temby4837.285286.xyz, Emby
 
 # TreeDiagram
 DOMAIN, 789.123456.al, Emby
