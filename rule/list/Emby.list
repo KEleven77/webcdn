@@ -30,13 +30,9 @@ DOMAIN, push-kr.misakaf.org
 IP-CIDR, 102.223.180.108/32
 DOMAIN-SUFFIX, emby.aca.best
 
-
 # NMEmby
 DOMAIN, film.ohhhh.org
 
-# Temby
-DOMAIN, temby.285286.xyz
-DOMAIN, temby4837.285286.xyz
 
 # TreeDiagram
 DOMAIN, 789.123456.al
@@ -50,7 +46,6 @@ DOMAIN-SUFFIX,jmsooo.com
 DOMAIN-SUFFIX,cf.jmsooo.com
 DOMAIN-SUFFIX,hk.jmsooo.com
 DOMAIN-SUFFIX,sg.jmsooo.com
-DOMAIN-SUFFIX,jmsuper.com
 
 # CC公益
 
@@ -76,7 +71,6 @@ DOMAIN, pub3.emby.wtf
 
 #牢大
 DOMAIN, emby-micax-ca-v2.mius.uk
-
 
 #Aurora
 DOMAIN,abc.auroramedia.vip
