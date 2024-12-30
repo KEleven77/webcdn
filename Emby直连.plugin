@@ -5,6 +5,8 @@
 #!date = 2024-12-30 
 
 [Rule]
+# 叔服
+DOMAIN, jz.mcjoker.xyz, DIRECT
 
 ## Saturday.lite
 DOMAIN,lite.saturday.video,DIRECT
@@ -26,6 +28,9 @@ DOMAIN-SUFFIX,raisemby.com,DIRECT
 DOMAIN,pemby.127066.xyz,DIRECTT
 DOMAIN,pemby.127066.xyz,DIRECT
 IP-CIDR,118.178.237.104/32,DIRECT
+
+# 阿甘
+DOMAIN-SUFFIX, aganemby.top, DIRECT
 
 #AWA影视
 DOMAIN, tv.811861.xyz, DIRECT
