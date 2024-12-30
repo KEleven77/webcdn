@@ -1,25 +1,12 @@
-#!name = Emby Filter
-#!desc = Emby服务器分流。
+#!name = Emby代理
+#!desc = Emby服务器代理
 #!author = KEleven
 #!icon = https://raw.githubusercontent.com/RuCu6/Loon/main/Icons/app/emby.png
-#!date = 2024-12-20 
+#!date = 2024-12-30 
 
 [Rule]
 # 江湖
 DOMAIN-SUFFIX, reddust.link, Emby
-
-# 垃圾影音
-DOMAIN, cf.xmsl.org, Emby
-DOMAIN, cf.emby.moe, Emby
-
-# 普拉斯影业
-DOMAIN, emby-best.xeton.dev, DIRECT
-DOMAIN, emby-cf.plusmedia.site, Emby
-DOMAIN, emby.plusmedia.site, Emby
-DOMAIN, emby.xeton.dev, Emby
-DOMAIN, jellyfin.xeton.dev, Emby
-DOMAIN, movie.xeton.dev, Emby
-DOMAIN, servers.xeton.dev, Emby
 
 # 叔服
 DOMAIN, emby3.mcjoker.xyz, Emby
@@ -53,10 +40,7 @@ DOMAIN, stream.ntrrr.top, Emby
 DOMAIN, stream.synn.cc, Emby
 
 # 卷毛鼠
-DOMAIN-SUFFIX,jmsooo.com, Emby
-DOMAIN-SUFFIX,cf.jmsooo.com, Emby
-DOMAIN-SUFFIX,hk.jmsooo.com, Emby
-DOMAIN-SUFFIX,sg.jmsooo.com, Emby
+DOMAIN,nano.jmsuper.com, Emby
 
 # CC公益
 
@@ -80,14 +64,39 @@ DOMAIN, pub1.emby.wtf, Emby
 DOMAIN, pub2.emby.wtf, Emby
 DOMAIN, pub3.emby.wtf, Emby
 
-#AWA影视
+# AWA影视
 DOMAIN, tv.811861.xyz, DIRECT
 
-#牢大
+# 牢大
 DOMAIN, emby-micax-ca-v2.mius.uk, Emby
 
-#阿甘
+# 阿甘
 DOMAIN-SUFFIX, aganemby.top, DIRECT
 
+## Nebula
+DOMAIN,emby.nebula-media.org, Emby
+
+## 非越公益服
+DOMAIN-SUFFIX,sfcj.org, Emby
+
+## 琴鸟
+DOMAIN,cdn.lyrebirdemby.com, Emby
+
+# 垃圾影音
+DOMAIN, cf.xmsl.org, Emby
+DOMAIN, cf.emby.moe, Emby
+
 #Aurora
-DOMAIN,abc.auroramedia.vip,Emby
+IP-CIDR,31.25.88.29/32, Emby
+DOMAIN,abc.auroramedia.vip, Emby
+
+## 好鸭机场服
+DOMAIN,dpxcf.niceduck.lol, Emby
+DOMAIN,cf.niceduck.lol, Emby
+DOMAIN,jcf.niceduck.lol, Emby
+
+## 鹅服
+DOMAIN,cavps.eu.org, Emby
+
+## 飞跃地平线
+DOMAIN,123456.buzz,Emby
