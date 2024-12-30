@@ -10,7 +10,6 @@ DOMAIN-SUFFIX, reddust.link, Emby
 
 # 叔服
 DOMAIN, emby3.mcjoker.xyz, Emby
-DOMAIN, jz.mcjoker.xyz, DIRECT
 
 # 私房菜
 DOMAIN, notnetflix.cos.cat, Emby
@@ -64,14 +63,8 @@ DOMAIN, pub1.emby.wtf, Emby
 DOMAIN, pub2.emby.wtf, Emby
 DOMAIN, pub3.emby.wtf, Emby
 
-# AWA影视
-DOMAIN, tv.811861.xyz, DIRECT
-
 # 牢大
 DOMAIN, emby-micax-ca-v2.mius.uk, Emby
-
-# 阿甘
-DOMAIN-SUFFIX, aganemby.top, DIRECT
 
 ## Nebula
 DOMAIN,emby.nebula-media.org, Emby
