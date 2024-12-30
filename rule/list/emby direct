@@ -1,0 +1,37 @@
+## Saturday.lite
+DOMAIN,lite.saturday.video
+
+## 映月
+DOMAIN-SUFFIX,985211.link
+
+##  MICU
+DOMAIN-SUFFIX,micu.hk
+
+## 蘑菇国内直连
+DOMAIN-SUFFIX,yeahfast.com
+
+## NANFLIX
+DOMAIN,us.nanflix.net
+
+## 众筹
+DOMAIN-SUFFIX,raisemby.com
+DOMAIN,pemby.127066.xyz
+DOMAIN,pemby.127066.xyz
+IP-CIDR,118.178.237.104/32
+
+#AWA影视
+DOMAIN, tv.811861.xyz
+
+## 鹅服
+IP-CIDR,50.114.55.29/32
+DOMAIN,wmxz.567996.xyz
+IP-CIDR,38.150.0.75/32
+DOMAIN,emby.pppp.us.kg
+IP-CIDR,141.11.175.105/32
+
+## 飞跃地平线
+DOMAIN,dpx.zhuoyue.de
+DOMAIN,aws1.123456.buzz
+DOMAIN,aws2.123456.buzz
+DOMAIN,cdn.123456.buzz
+IP-CIDR,110.40.36.36/32
