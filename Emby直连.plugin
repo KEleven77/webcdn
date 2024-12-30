@@ -1,0 +1,45 @@
+#!name = Emby直连
+#!desc = Emby服务器直连
+#!author = KEleven
+#!icon = https://raw.githubusercontent.com/RuCu6/Loon/main/Icons/app/emby.png
+#!date = 2024-12-30 
+
+[Rule]
+
+## Saturday.lite
+DOMAIN,lite.saturday.video,DIRECT
+
+## 映月
+DOMAIN-SUFFIX,985211.link,DIRECT
+
+##  MICU
+DOMAIN-SUFFIX,micu.hk,DIRECT
+
+## 蘑菇国内直连
+DOMAIN-SUFFIX,yeahfast.com,DIRECT
+
+## NANFLIX
+DOMAIN,us.nanflix.net,DIRECT
+
+## 众筹
+DOMAIN-SUFFIX,raisemby.com,DIRECT
+DOMAIN,pemby.127066.xyz,DIRECTT
+DOMAIN,pemby.127066.xyz,DIRECT
+IP-CIDR,118.178.237.104/32,DIRECT
+
+#AWA影视
+DOMAIN, tv.811861.xyz, DIRECT
+
+## 鹅服
+IP-CIDR,50.114.55.29/32,DIRECT
+DOMAIN,wmxz.567996.xyz,DIRECT
+IP-CIDR,38.150.0.75/32,DIRECT
+DOMAIN,emby.pppp.us.kg,DIRECT
+IP-CIDR,141.11.175.105/32,DIRECT
+
+## 飞跃地平线
+DOMAIN,dpx.zhuoyue.de,DIRECT
+DOMAIN,aws1.123456.buzz,DIRECT
+DOMAIN,aws2.123456.buzz,DIRECT
+DOMAIN,cdn.123456.buzz,DIRECT
+IP-CIDR,110.40.36.36/32,DIRECT
