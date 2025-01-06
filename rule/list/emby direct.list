@@ -38,3 +38,6 @@ DOMAIN,aws1.123456.buzz
 DOMAIN,aws2.123456.buzz
 DOMAIN,cdn.123456.buzz
 IP-CIDR,110.40.36.36/32
+
+## NANFLIX
+DOMAIN,us.nanflix.net
