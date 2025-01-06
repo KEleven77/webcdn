@@ -35,7 +35,6 @@ DOMAIN, stream.synn.cc
 DOMAIN,nano.jmsuper.com
 
 # CC公益
-
 DOMAIN, cc.coemn.com
 DOMAIN, cc.embycc.link
 
@@ -58,7 +57,6 @@ DOMAIN, pub3.emby.wtf
 
 # 牢大
 DOMAIN, emby-micax-ca-v2.mius.uk
-
 
 ## Nebula
 DOMAIN,emby.nebula-media.org
@@ -90,3 +88,6 @@ DOMAIN,123456.buzz
 
 ## temby
 DOMAIN,temby856.285286.xyz
+
+## NANFLIX
+DOMAIN,us.nanflix.net
