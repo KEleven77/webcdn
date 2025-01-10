@@ -19,6 +19,7 @@ DOMAIN, emby.misakaf.org
 DOMAIN, push-kr.misakaf.org
 IP-CIDR, 102.223.180.108/32
 DOMAIN-SUFFIX, emby.aca.best
+DOMAIN, aca.misakaf.org
 
 # NMEmby
 DOMAIN, film.ohhhh.org
