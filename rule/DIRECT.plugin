@@ -1,0 +1,8 @@
+DOMAIN-SUFFIX,embyvip.misakaf.org,DIRECT
+DOMAIN-SUFFIX,cn.bing.com,DIRECT
+DOMAIN-KEYWORD,tracker,DIRECT
+DOMAIN-KEYWORD,epicgames-download,DIRECT
+DOMAIN-SUFFIX,ipv4.egdownload.fastly-edge.com,DIRECT
+# Gmail
+DOMAIN,imap.gmail.com,DIRECT
+DOMAIN,smtp.gmail.com,DIRECT
