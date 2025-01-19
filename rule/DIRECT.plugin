@@ -1,4 +1,9 @@
-DOMAIN-SUFFIX,embyvip.misakaf.org,DIRECT
+#!name = 手动直连
+#!desc = 手动直连
+#!author = KEleven
+#!date = 2024-12-30 
+
+[Rule]
 DOMAIN-SUFFIX,cn.bing.com,DIRECT
 DOMAIN-KEYWORD,tracker,DIRECT
 DOMAIN-KEYWORD,epicgames-download,DIRECT
