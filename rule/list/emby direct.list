@@ -42,3 +42,7 @@ IP-CIDR,110.40.36.36/32
 
 ## NANFLIX
 DOMAIN,us.nanflix.net
+
+## 9club
+IP-CIDR,185.163.116.145
+DOMAIN,emby.9club.lol
