@@ -80,8 +80,7 @@ DOMAIN, cf.xmsl.org, Emby
 DOMAIN, cf.emby.moe, Emby
 
 #Aurora
-IP-CIDR,31.25.88.29/32, Emby
-DOMAIN,abc.auroramedia.vip, Emby
+DOMAIN-SUFFIX,auroramedia.vip, Emby
 
 ## 好鸭机场服
 DOMAIN,dpxcf.niceduck.lol, Emby
