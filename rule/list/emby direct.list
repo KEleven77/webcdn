@@ -43,3 +43,10 @@ DOMAIN,us.nanflix.net
 ## 9club
 IP-CIDR,185.163.116.145/32
 DOMAIN,emby.9club.lol
+
+## Alpha海外服
+DOMAIN,alphatvo256988.alphatvapp.top
+DOMAIN,aop9999.alphatvapp.top
+DOMAIN,alphatvo256981.alphatvapp.top
+IP-CIDR,154.40.33.88/32
+IP-CIDR,154.29.159.230/32
