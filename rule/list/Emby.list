@@ -73,8 +73,7 @@ DOMAIN, cf.xmsl.org
 DOMAIN, cf.emby.moe
 
 #Aurora
-IP-CIDR,31.25.88.29/32
-DOMAIN,abc.auroramedia.vip
+DOMAIN-SUFFIX,auroramedia.vip
 
 ## 好鸭机场服
 DOMAIN,dpxcf.niceduck.lol
