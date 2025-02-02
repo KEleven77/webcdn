@@ -96,5 +96,65 @@ DOMAIN,123456.buzz,Emby
 ## temby
 DOMAIN,temby856.285286.xyz,Emby
 
+
+
+# 叔服
+DOMAIN, jz.mcjoker.xyz, DIRECT
+
+## Saturday.lite
+DOMAIN,lite.saturday.video,DIRECT
+
+## 映月
+DOMAIN-SUFFIX,985211.link,DIRECT
+
 ## 月饼
-DOMAIN,emby.my,Emby
+DOMAIN-SUFFIX,a.emby.my,Emby
+DOMAIN-SUFFIX,b.emby.my,Emby
+DOMAIN-SUFFIX,shanghai.emby.my,DIRECT
+
+##  MICU
+DOMAIN-SUFFIX,micu.hk,DIRECT
+
+## 蘑菇国内直连
+DOMAIN-SUFFIX,yeahfast.com,DIRECT
+
+## 众筹
+DOMAIN-SUFFIX,raisemby.com,DIRECT
+DOMAIN-KEYWORD,pemby,DIRECT
+DOMAIN,pemby.127066.xyz,DIRECTT
+DOMAIN,pemby.127255.best,DIRECT
+IP-CIDR,118.178.237.104/32,DIRECT
+
+# 阿甘
+DOMAIN-SUFFIX, aganemby.top, DIRECT
+
+#AWA影视
+DOMAIN, tv.811861.xyz, DIRECT
+
+## 鹅服
+IP-CIDR,50.114.55.29/32,DIRECT
+DOMAIN,wmxz.567996.xyz,DIRECT
+IP-CIDR,38.150.0.75/32,DIRECT
+DOMAIN,emby.pppp.us.kg,DIRECT
+IP-CIDR,141.11.175.105/32,DIRECT
+
+## 飞跃地平线
+DOMAIN,cdn.123456.buzz,DIRECT
+IP-CIDR,110.40.78.39/32,DIRECT
+
+## NANFLIX
+DOMAIN,us.nanflix.net,DIRECT
+
+## 9club
+IP-CIDR,185.163.116.145/32,DIRECT
+DOMAIN,emby.9club.lol,DIRECT
+
+## Alpha海外服
+DOMAIN,alphatvo256988.alphatvapp.top,DIRECT
+DOMAIN,aop9999.alphatvapp.top,DIRECT
+DOMAIN,alphatvo256981.alphatvapp.top,DIRECT
+IP-CIDR,154.40.33.88/32,DIRECT
+IP-CIDR,154.29.159.230/32,DIRECT
+
+## 惊蛰
+DOMAIN,emby.jingzhe.pro,DIRECT
