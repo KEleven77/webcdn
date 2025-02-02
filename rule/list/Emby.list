@@ -90,4 +90,5 @@ DOMAIN,123456.buzz
 DOMAIN,temby856.285286.xyz
 
 ##月饼
-DOMAIN,emby.my
+DOMAIN-SUFFIX,a.emby.my
+DOMAIN-SUFFIX,b.emby.my
