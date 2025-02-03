@@ -96,6 +96,8 @@ DOMAIN,123456.buzz,Emby
 ## temby
 DOMAIN,temby856.285286.xyz,Emby
 
+## 惊蛰
+DOMAIN-SUFFIX,jingzhe.pro,Emby
 
 
 # 叔服
@@ -155,6 +157,3 @@ DOMAIN,aop9999.alphatvapp.top,DIRECT
 DOMAIN,alphatvo256981.alphatvapp.top,DIRECT
 IP-CIDR,154.40.33.88/32,DIRECT
 IP-CIDR,154.29.159.230/32,DIRECT
-
-## 惊蛰
-DOMAIN-SUFFIX,jingzhe.pro,DIRECT
