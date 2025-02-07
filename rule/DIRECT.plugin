@@ -11,3 +11,5 @@ DOMAIN-SUFFIX,ipv4.egdownload.fastly-edge.com,DIRECT
 # Gmail
 DOMAIN,imap.gmail.com,DIRECT
 DOMAIN,smtp.gmail.com,DIRECT
+# PT
+DOMAIN-SUFFIX,t.audiences.me,DIRECT
