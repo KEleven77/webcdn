@@ -109,6 +109,9 @@ DOMAIN,lite.saturday.video,DIRECT
 ## 映月
 DOMAIN-SUFFIX,985211.link,DIRECT
 
+## 硬月
+DOMAIN-SUFFIX,hardmoon.net,DIRECT
+
 ## 月饼
 DOMAIN-SUFFIX,a.emby.my,Emby
 DOMAIN-SUFFIX,b.emby.my,Emby
