@@ -117,6 +117,7 @@ DOMAIN-SUFFIX,b.hardmoon.net,DIRECT
 DOMAIN-SUFFIX,a.emby.my,Emby
 DOMAIN-SUFFIX,b.emby.my,Emby
 DOMAIN-SUFFIX,shanghai.emby.my,DIRECT
+DOMAIN-SUFFIX,hksgyr.emby.my,DIRECT
 
 ##  MICU
 DOMAIN-SUFFIX,micu.hk,DIRECT
