@@ -10,11 +10,6 @@ DOMAIN-SUFFIX,985211.link
 ## 硬月
 DOMAIN-SUFFIX,b.hardmoon.net
 
-## 月饼
-DOMAIN-SUFFIX,shanghai.emby.my
-DOMAIN-SUFFIX,hksgyr.emby.my
-IP-CIDR,162.245.221.124/32
-
 ##  MICU
 DOMAIN-SUFFIX,micu.hk
 
