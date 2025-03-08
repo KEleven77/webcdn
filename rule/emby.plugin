@@ -116,9 +116,8 @@ DOMAIN-SUFFIX,b.hardmoon.net,DIRECT
 ## 月饼
 DOMAIN-SUFFIX,a.emby.my,Emby
 DOMAIN-SUFFIX,b.emby.my,Emby
-DOMAIN-SUFFIX,shanghai.emby.my,DIRECT
-DOMAIN-SUFFIX,hksgyr.emby.my,DIRECT
-IP-CIDR,162.245.221.124/32,DIRECT
+DOMAIN-SUFFIX,c.emby.my,Emby
+DOMAIN-SUFFIX,jp3rg7.emby.my:443,Emby
 
 ##  MICU
 DOMAIN-SUFFIX,micu.hk,DIRECT
