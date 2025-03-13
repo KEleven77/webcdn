@@ -1,20 +1,17 @@
-# 叔服
-DOMAIN, jz.mcjoker.xyz
-
 ## Saturday.lite
 DOMAIN,lite.saturday.video
 
 ## 映月
-DOMAIN-SUFFIX,985211.link
+IP-CIDR,150.138.89.202/32、
+
+## 琴鸟
+IP-CIDR,188.172.228.65/32
 
 ## 硬月
 DOMAIN-SUFFIX,b.hardmoon.net
 
 ##  MICU
 DOMAIN-SUFFIX,micu.hk
-
-## 蘑菇国内直连
-DOMAIN-SUFFIX,yeahfast.com
 
 ## 众筹
 DOMAIN-SUFFIX,raisemby.com
@@ -40,10 +37,6 @@ IP-CIDR,104.161.22.114/32
 
 ## NANFLIX
 DOMAIN,us.nanflix.net
-
-## 9club
-IP-CIDR,185.163.116.145/32
-DOMAIN,emby.9club.lol
 
 ## Alpha海外服
 DOMAIN,alphatvo256988.alphatvapp.top
