@@ -5,17 +5,8 @@
 #!date = 2024-12-30 
 
 [Rule]
-# 江湖
-DOMAIN-SUFFIX, reddust.link, Emby
-
 # 叔服
 DOMAIN, emby3.mcjoker.xyz, Emby
-
-# 私房菜
-DOMAIN, notnetflix.cos.cat, Emby
-
-# Lend
-DOMAIN, emby.lcloud.wiki, Emby
 
 # Marmot
 DOMAIN, v.20120714.xyz, Emby
@@ -31,14 +22,6 @@ DOMAIN, aca.misakaf.org, Emby
 # NMEmby
 DOMAIN, film.ohhhh.org, Emby
 
-
-# TreeDiagram
-DOMAIN, 789.123456.al, Emby
-
-# ntRRR
-DOMAIN, stream.ntrrr.top, Emby
-DOMAIN, stream.synn.cc, Emby
-
 # 卷毛鼠
 DOMAIN,nano.jmsuper.com, 台湾
 
@@ -52,22 +35,10 @@ DOMAIN, play.charontv.com, Emby
 #pual电报服
 DOMAIN, cf.imetyou.top, Emby
 
-#TreeDiagram
-DOMAIN, 789.123456.al, Emby
-
-#StarCat
-DOMAIN, flare.catlinks.co.uk, Emby
-
 #终点站
 DOMAIN, pub1.emby.wtf, Emby
 DOMAIN, pub2.emby.wtf, Emby
 DOMAIN, pub3.emby.wtf, Emby
-
-# 牢大
-DOMAIN, emby-micax-ca-v2.mius.uk, Emby
-
-## Nebula
-DOMAIN,emby.nebula-media.org, Emby
 
 ## 非越公益服
 DOMAIN-SUFFIX,sfcj.org, Emby
@@ -93,16 +64,15 @@ DOMAIN,cavps.eu.org, Emby
 
 ## 飞跃地平线
 DOMAIN,123456.buzz,Emby
+DOMAIN,cdn.123456.buzz,DIRECT
+IP-CIDR,110.40.78.39/32,DIRECT
+IP-CIDR,104.161.22.114/32,DIRECT
 
 ## temby
 DOMAIN,temby856.285286.xyz,Emby
 
 ## 惊蛰
 DOMAIN-SUFFIX,jingzhe.pro,Emby
-
-
-# 叔服
-DOMAIN, jz.mcjoker.xyz, DIRECT
 
 ## Saturday.lite
 DOMAIN,lite.saturday.video,DIRECT
@@ -123,18 +93,12 @@ DOMAIN-SUFFIX,jp3rg7.emby.my,Emby
 ##  MICU
 DOMAIN-SUFFIX,micu.hk,DIRECT
 
-## 蘑菇国内直连
-DOMAIN-SUFFIX,yeahfast.com,DIRECT
-
 ## 众筹
 DOMAIN-SUFFIX,raisemby.com,DIRECT
 DOMAIN-KEYWORD,pemby,DIRECT
 DOMAIN,pemby.127066.xyz,DIRECTT
 DOMAIN,pemby.127255.best,DIRECT
 IP-CIDR,118.178.237.104/32,DIRECT
-
-# 阿甘
-DOMAIN-SUFFIX, aganemby.top, DIRECT
 
 #AWA影视
 DOMAIN, tv.811861.xyz, DIRECT
@@ -145,11 +109,6 @@ DOMAIN,wmxz.567996.xyz,DIRECT
 IP-CIDR,38.150.0.75/32,DIRECT
 DOMAIN,emby.pppp.us.kg,DIRECT
 IP-CIDR,141.11.175.105/32,DIRECT
-
-## 飞跃地平线
-DOMAIN,cdn.123456.buzz,DIRECT
-IP-CIDR,110.40.78.39/32,DIRECT
-IP-CIDR,104.161.22.114/32,DIRECT
 
 ## NANFLIX
 DOMAIN,us.nanflix.net,DIRECT
