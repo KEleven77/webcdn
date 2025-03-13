@@ -113,10 +113,6 @@ IP-CIDR,141.11.175.105/32,DIRECT
 ## NANFLIX
 DOMAIN,us.nanflix.net,DIRECT
 
-## 9club
-IP-CIDR,185.163.116.145/32,DIRECT
-DOMAIN,emby.9club.lol,DIRECT
-
 ## Alpha海外服
 DOMAIN,alphatvo256988.alphatvapp.top,DIRECT
 DOMAIN,aop9999.alphatvapp.top,DIRECT
