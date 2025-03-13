@@ -74,6 +74,7 @@ DOMAIN-SUFFIX,sfcj.org, Emby
 
 ## 琴鸟
 DOMAIN,cdn.lyrebirdemby.com, Emby
+IP-CIDR,188.172.228.65/32, DIRECT
 
 # 垃圾影音
 DOMAIN, cf.xmsl.org, Emby
@@ -107,7 +108,7 @@ DOMAIN, jz.mcjoker.xyz, DIRECT
 DOMAIN,lite.saturday.video,DIRECT
 
 ## 映月
-DOMAIN-SUFFIX,985211.link,DIRECT
+IP-CIDR,150.138.89.202/32,DIRECT
 
 ## 硬月
 DOMAIN-SUFFIX,a.hardmoon.net,Emby
