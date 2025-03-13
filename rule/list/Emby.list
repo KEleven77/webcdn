@@ -1,37 +1,3 @@
-# 江湖
-DOMAIN-SUFFIX, reddust.link
-
-# 叔服
-DOMAIN, emby3.mcjoker.xyz
-
-# 私房菜
-DOMAIN, notnetflix.cos.cat
-
-# Lend
-DOMAIN, emby.lcloud.wiki
-
-# Marmot
-DOMAIN, v.20120714.xyz
-
-# MisakaF
-DOMAIN, cdn.misakaf.org
-DOMAIN, emby.misakaf.org
-DOMAIN, push-kr.misakaf.org
-IP-CIDR, 102.223.180.108/32
-DOMAIN-SUFFIX, emby.aca.best
-DOMAIN, aca.misakaf.org
-
-# NMEmby
-DOMAIN, film.ohhhh.org
-
-
-# TreeDiagram
-DOMAIN, 789.123456.al
-
-# ntRRR
-DOMAIN, stream.ntrrr.top
-DOMAIN, stream.synn.cc
-
 # 卷毛鼠
 DOMAIN,nano.jmsuper.com
 
@@ -45,22 +11,10 @@ DOMAIN, play.charontv.com
 #pual电报服
 DOMAIN, cf.imetyou.top
 
-#TreeDiagram
-DOMAIN, 789.123456.al
-
-#StarCat
-DOMAIN, flare.catlinks.co.uk
-
 #终点站
 DOMAIN, pub1.emby.wtf
 DOMAIN, pub2.emby.wtf
 DOMAIN, pub3.emby.wtf
-
-# 牢大
-DOMAIN, emby-micax-ca-v2.mius.uk
-
-## Nebula
-DOMAIN,emby.nebula-media.org
 
 ## 非越公益服
 DOMAIN-SUFFIX,sfcj.org
