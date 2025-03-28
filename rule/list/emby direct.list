@@ -10,6 +10,9 @@ IP-CIDR,188.172.228.65/32
 ## 硬月
 DOMAIN-SUFFIX,b.hardmoon.net
 
+##月饼
+DOMAIN-SUFFIX,uhebs.emby.my
+
 ##  MICU
 DOMAIN-SUFFIX,micu.hk
 
