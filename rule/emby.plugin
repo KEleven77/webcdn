@@ -11,14 +11,6 @@ DOMAIN, emby3.mcjoker.xyz, Emby
 # Marmot
 DOMAIN, v.20120714.xyz, Emby
 
-# MisakaF
-DOMAIN, cdn.misakaf.org, DIRECT
-DOMAIN, emby.misakaf.org, Emby
-DOMAIN, push-kr.misakaf.org, Emby
-IP-CIDR, 102.223.180.108/32, Emby,no-resolve
-DOMAIN-SUFFIX, emby.aca.best, Emby
-DOMAIN, aca.misakaf.org, Emby
-
 # NMEmby
 DOMAIN, film.ohhhh.org, Emby
 
@@ -85,7 +77,7 @@ DOMAIN-SUFFIX,a.hardmoon.net,Emby
 DOMAIN-SUFFIX,b.hardmoon.net,DIRECT
 
 ## 月饼
-DOMAIN-SUFFIX,a.emby.my,Emby
+DOMAIN-SUFFIX,a.emby.my,DIRECT
 DOMAIN-SUFFIX,b.emby.my,Emby
 DOMAIN-SUFFIX,c.emby.my,Emby
 DOMAIN-SUFFIX,d.emby.my,Emby
