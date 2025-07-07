@@ -1,56 +1,57 @@
-# 卷毛鼠
-DOMAIN,nano.jmsuper.com
+payload:
+  # 卷毛鼠
+  - DOMAIN,nano.jmsuper.com
 
-# CC公益
-DOMAIN, cc.coemn.com
-DOMAIN, cc.embycc.link
+  # CC公益
+  - DOMAIN,cc.coemn.com
+  - DOMAIN,cc.embycc.link
 
-#卡戎
-DOMAIN, play.charontv.com
+  # 卡戎
+  - DOMAIN,play.charontv.com
 
-#pual电报服
-DOMAIN, cf.imetyou.top
+  # pual电报服
+  - DOMAIN,cf.imetyou.top
 
-#终点站
-DOMAIN, pub1.emby.wtf
-DOMAIN, pub2.emby.wtf
-DOMAIN, pub3.emby.wtf
+  # 终点站
+  - DOMAIN,pub1.emby.wtf
+  - DOMAIN,pub2.emby.wtf
+  - DOMAIN,pub3.emby.wtf
 
-## 非越公益服
-DOMAIN-SUFFIX,sfcj.org
+  # 非越公益服
+  - DOMAIN-SUFFIX,sfcj.org
 
-## 琴鸟
-DOMAIN,cdn.lyrebirdemby.com
+  # 琴鸟
+  - DOMAIN,cdn.lyrebirdemby.com
 
-# 垃圾影音
-DOMAIN, cf.xmsl.org
-DOMAIN, cf.emby.moe
+  # 垃圾影音
+  - DOMAIN,cf.xmsl.org
+  - DOMAIN,cf.emby.moe
 
-#Aurora
-DOMAIN-SUFFIX,auroramedia.vip
+  # Aurora
+  - DOMAIN-SUFFIX,auroramedia.vip
 
-## 好鸭机场服
-DOMAIN,dpxcf.niceduck.lol
-DOMAIN,cf.niceduck.lol
-DOMAIN,jcf.niceduck.lol
+  # 好鸭机场服
+  - DOMAIN,dpxcf.niceduck.lol
+  - DOMAIN,cf.niceduck.lol
+  - DOMAIN,jcf.niceduck.lol
 
-## 鹅服
-DOMAIN,cavps.eu.org
+  # 鹅服
+  - DOMAIN,cavps.eu.org
 
-## 飞跃地平线
-DOMAIN,123456.buzz
+  # 飞跃地平线
+  - DOMAIN,123456.buzz
 
-## temby
-DOMAIN,temby856.285286.xyz
+  # temby
+  - DOMAIN,temby856.285286.xyz
 
-## 惊蛰
-DOMAIN-SUFFIX,jingzhe.pro
+  # 惊蛰
+  - DOMAIN-SUFFIX,jingzhe.pro
 
-##月饼
-DOMAIN-SUFFIX,b.emby.my
-DOMAIN-SUFFIX,c.emby.my
-DOMAIN-SUFFIX,d.emby.my
-DOMAIN-SUFFIX,jp3rg7.emby.my
+  # 月饼
+  - DOMAIN-SUFFIX,b.emby.my
+  - DOMAIN-SUFFIX,c.emby.my
+  - DOMAIN-SUFFIX,d.emby.my
+  - DOMAIN-SUFFIX,jp3rg7.emby.my
 
-## 硬月
-DOMAIN-SUFFIX,a.hardmoon.net
+  # 硬月
+  - DOMAIN-SUFFIX,a.hardmoon.net
