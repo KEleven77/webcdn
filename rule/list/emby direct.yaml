@@ -1,49 +1,50 @@
-## Saturday.lite
-DOMAIN,lite.saturday.video
+payload:
+  # Saturday.lite
+  - DOMAIN,lite.saturday.video
 
-## 映月
-IP-CIDR,150.138.89.202/32、
+  # 映月 (IP规则)
+  - IP-CIDR,150.138.89.202/32
 
-## 琴鸟
-IP-CIDR,188.172.228.65/32
+  # 琴鸟 (IP规则)
+  - IP-CIDR,188.172.228.65/32
 
-## 硬月
-DOMAIN-SUFFIX,b.hardmoon.net
+  # 硬月 (域名规则)
+  - DOMAIN-SUFFIX,b.hardmoon.net
 
-##月饼
-DOMAIN-SUFFIX,a.emby.my
-DOMAIN-SUFFIX,uhebs.emby.my
+  # 月饼 (域名规则)
+  - DOMAIN-SUFFIX,a.emby.my
+  - DOMAIN-SUFFIX,uhebs.emby.my
 
-##  MICU
-DOMAIN-SUFFIX,micu.hk
+  # MICU (域名规则)
+  - DOMAIN-SUFFIX,micu.hk
 
-## 众筹
-DOMAIN-SUFFIX,emby.lilyya.lat
-DOMAIN-SUFFIX,raisemby.com
-DOMAIN,pemby.127066.xyz
-DOMAIN,pemby.127255.best
+  # 众筹 (混合规则)
+  - DOMAIN-SUFFIX,emby.lilyya.lat
+  - DOMAIN-SUFFIX,raisemby.com
+  - DOMAIN,pemby.127066.xyz
+  - DOMAIN,pemby.127255.best
 
-#AWA影视
-DOMAIN, tv.811861.xyz
+  # AWA影视 (域名规则)
+  - DOMAIN,tv.811861.xyz
 
-## 鹅服
-IP-CIDR,50.114.55.29/32
-DOMAIN,wmxz.567996.xyz
-IP-CIDR,38.150.0.75/32
-DOMAIN,emby.pppp.us.kg
-IP-CIDR,141.11.175.105/32
+  # 鹅服 (混合规则)
+  - IP-CIDR,50.114.55.29/32
+  - DOMAIN,wmxz.567996.xyz
+  - IP-CIDR,38.150.0.75/32
+  - DOMAIN,emby.pppp.us.kg
+  - IP-CIDR,141.11.175.105/32
 
-## 飞跃地平线
-DOMAIN,cdn.123456.buzz
-IP-CIDR,110.40.78.39/32
-IP-CIDR,104.161.22.114/32
+  # 飞跃地平线 (混合规则)
+  - DOMAIN,cdn.123456.buzz
+  - IP-CIDR,110.40.78.39/32
+  - IP-CIDR,104.161.22.114/32
 
-## NANFLIX
-DOMAIN,us.nanflix.net
+  # NANFLIX (域名规则)
+  - DOMAIN,us.nanflix.net
 
-## Alpha海外服
-DOMAIN,alphatvo256988.alphatvapp.top
-DOMAIN,aop9999.alphatvapp.top
-DOMAIN,alphatvo256981.alphatvapp.top
-IP-CIDR,154.40.33.88/32
-IP-CIDR,154.29.159.230/32
+  # Alpha海外服 (混合规则)
+  - DOMAIN,alphatvo256988.alphatvapp.top
+  - DOMAIN,aop9999.alphatvapp.top
+  - DOMAIN,alphatvo256981.alphatvapp.top
+  - IP-CIDR,154.40.33.88/32
+  - IP-CIDR,154.29.159.230/32
