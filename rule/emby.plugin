@@ -83,15 +83,12 @@ DOMAIN-SUFFIX,emby.my,DIRECT
 DOMAIN-SUFFIX,micu.hk,DIRECT
 
 ## 众筹电信防止dns阻断线路
-DOMAIN,,zc.mingri.site,DIRECT
+DOMAIN,zc.mingri.site,DIRECT
 ## 众筹普通线路
 DOMAIN,emby.lilyya.lat,DIRECT
 DOMAIN,pemby.127255.best,DIRECT
 DOMAIN,pemby.127066.xyz,DIRECT
-DOMAIN,emby.raisemby.com,DIRECT
-DOMAIN,speedtest.raisemby.com,DIRECT
-## 众筹移动晚高峰 qos 线路：
-DOMAIN,yd.raisemby.com,DIRECT
+DOMAIN-SUFFIX,raisemby.com,DIRECT
 ## 众筹cdn 托底线路体验不佳 保证可用
 DOMAIN,zcemby.mingri.site,DIRECT
 
