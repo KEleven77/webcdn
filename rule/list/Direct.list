@@ -9,3 +9,13 @@ DOMAIN,smtp.gmail.com
 
 # PT
 DOMAIN-SUFFIX,t.audiences.me
+
+# 绿茵直播
+DOMAIN-SUFFIX,lyzb3.live
+DOMAIN-SUFFIX,lyzb5.live
+DOMAIN-SUFFIX,lyzb6.live
+DOMAIN-SUFFIX,lyzb7.live
+DOMAIN-SUFFIX,lyzb123.app
+DOMAIN-SUFFIX,lyzb31.app
+DOMAIN-SUFFIX,lyzb3.app
+DOMAIN-SUFFIX,lyzb33.app
