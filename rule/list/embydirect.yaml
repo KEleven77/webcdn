@@ -40,7 +40,7 @@ payload:
   - IP-CIDR,104.161.22.114/32
 
   # NANFLIX (域名规则)
-  - DOMAIN,us.nanflix.net
+  - DOMAIN,usa.nanflix.net
 
   # Alpha海外服 (混合规则)
   - DOMAIN,alphatvo256988.alphatvapp.top
