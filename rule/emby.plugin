@@ -77,7 +77,9 @@ DOMAIN-SUFFIX,a.hardmoon.net,Emby
 DOMAIN-SUFFIX,b.hardmoon.net,DIRECT
 
 ## 月饼
-DOMAIN-SUFFIX,emby.my,DIRECT
+DOMAIN,emby.my,Emby
+DOMAIN,a.emby.my,Emby
+DOMAIN,uhebs.emby.my,DIRECT
 
 ##  MICU
 DOMAIN-SUFFIX,micu.hk,DIRECT
