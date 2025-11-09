@@ -12,8 +12,7 @@ payload:
   - DOMAIN-SUFFIX,b.hardmoon.net
 
   # 月饼 (域名规则)
-  - DOMAIN-SUFFIX,a.emby.my
-  - DOMAIN-SUFFIX,uhebs.emby.my
+  - DOMAIN,uhebs.emby.my
 
   # MICU (域名规则)
   - DOMAIN-SUFFIX,micu.hk
