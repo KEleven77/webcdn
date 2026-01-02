@@ -5,17 +5,9 @@
 #!date = 2024-12-30 
 
 [Rule]
-# 叔服
-DOMAIN, emby3.mcjoker.xyz, Emby
-
-# Marmot
-DOMAIN, v.20120714.xyz, Emby
 
 # NMEmby
 DOMAIN, film.ohhhh.org, Emby
-
-# 卷毛鼠
-DOMAIN,nano.jmsuper.com, 台湾
 
 # CC公益
 DOMAIN, cc.coemn.com, Emby
@@ -35,30 +27,11 @@ DOMAIN, pub3.emby.wtf, Emby
 ## 非越公益服
 DOMAIN-SUFFIX,sfcj.org, Emby
 
-## 琴鸟
-DOMAIN,cdn.lyrebirdemby.com, Emby
-IP-CIDR,188.172.228.65/32, DIRECT
 
 # 垃圾影音
 DOMAIN, cf.xmsl.org, Emby
 DOMAIN, cf.emby.moe, Emby
 
-#Aurora
-DOMAIN-SUFFIX,auroramedia.vip, Emby
-
-## 好鸭机场服
-DOMAIN,dpxcf.niceduck.lol, Emby
-DOMAIN,cf.niceduck.lol, Emby
-DOMAIN,jcf.niceduck.lol, Emby
-
-## 鹅服
-DOMAIN,cavps.eu.org, Emby
-
-## 飞跃地平线
-DOMAIN,123456.buzz,Emby
-DOMAIN,cdn.123456.buzz,DIRECT
-IP-CIDR,110.40.78.39/32,DIRECT
-IP-CIDR,104.161.22.114/32,DIRECT
 
 ## temby
 DOMAIN,temby856.285286.xyz,Emby
@@ -67,22 +40,13 @@ DOMAIN,temby856.285286.xyz,Emby
 DOMAIN-SUFFIX,jingzhe.pro,Emby
 
 ## Saturday.lite
-DOMAIN,lite.saturday.video,DIRECT
-
-## 映月
-IP-CIDR,150.138.89.202/32,DIRECT
-
-## 硬月
-DOMAIN-SUFFIX,a.hardmoon.net,Emby
-DOMAIN-SUFFIX,b.hardmoon.net,DIRECT
+DOMAIN,lite.saturdayvideo.top,DIRECT
 
 ## 月饼
 DOMAIN,emby.my,Emby
 DOMAIN,a.emby.my,Emby
 DOMAIN,uhebs.emby.my,DIRECT
 
-##  MICU
-DOMAIN-SUFFIX,micu.hk,DIRECT
 
 ## 众筹电信防止dns阻断线路
 DOMAIN,zc.mingri.site,DIRECT
@@ -94,22 +58,11 @@ DOMAIN-SUFFIX,raisemby.com,DIRECT
 ## 众筹cdn 托底线路体验不佳 保证可用
 DOMAIN,zcemby.mingri.site,DIRECT
 
-#AWA影视
-DOMAIN, tv.811861.xyz, DIRECT
-
-## 鹅服
-IP-CIDR,50.114.55.29/32,DIRECT
-DOMAIN,wmxz.567996.xyz,DIRECT
-IP-CIDR,38.150.0.75/32,DIRECT
-DOMAIN,emby.pppp.us.kg,DIRECT
-IP-CIDR,141.11.175.105/32,DIRECT
+#众映
+DOMAIN,crhemby.mingri.site,DIRECT
+DOMAIN,115.embyhod.com,DIRECT
 
 ## NANFLIX
 DOMAIN,usa.nanflix.net,DIRECT
 
-## Alpha海外服
-DOMAIN,alphatvo256988.alphatvapp.top,DIRECT
-DOMAIN,aop9999.alphatvapp.top,DIRECT
-DOMAIN,alphatvo256981.alphatvapp.top,DIRECT
-IP-CIDR,154.40.33.88/32,DIRECT
-IP-CIDR,154.29.159.230/32,DIRECT
+
