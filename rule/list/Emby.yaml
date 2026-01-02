@@ -1,6 +1,4 @@
 payload:
-  # 卷毛鼠
-  - DOMAIN,nano.jmsuper.com
 
   # CC公益
   - DOMAIN,cc.coemn.com
@@ -17,32 +15,9 @@ payload:
   - DOMAIN,pub2.emby.wtf
   - DOMAIN,pub3.emby.wtf
 
-  # 非越公益服
-  - DOMAIN-SUFFIX,sfcj.org
-
-  # 琴鸟
-  - DOMAIN,cdn.lyrebirdemby.com
-
   # 垃圾影音
   - DOMAIN,cf.xmsl.org
   - DOMAIN,cf.emby.moe
-
-  # Aurora
-  - DOMAIN-SUFFIX,auroramedia.vip
-
-  # 好鸭机场服
-  - DOMAIN,dpxcf.niceduck.lol
-  - DOMAIN,cf.niceduck.lol
-  - DOMAIN,jcf.niceduck.lol
-
-  # 鹅服
-  - DOMAIN,cavps.eu.org
-
-  # 飞跃地平线
-  - DOMAIN,123456.buzz
-
-  # temby
-  - DOMAIN,temby856.285286.xyz
 
   # 惊蛰
   - DOMAIN-SUFFIX,jingzhe.pro
