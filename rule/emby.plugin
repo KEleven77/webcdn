@@ -34,13 +34,13 @@ DOMAIN, cf.emby.moe, Emby
 
 
 ## temby
-DOMAIN,temby856.285286.xyz,Emby
+DOMAIN,temby856.285286.xyz, Emby
 
 ## 惊蛰
-DOMAIN-SUFFIX,jingzhe.pro,Emby
+DOMAIN-SUFFIX,jingzhe.pro, Emby
 
 ## Saturday.lite
-DOMAIN,lite.saturdayvideo.top,DIRECT
+DOMAIN,lite.saturdayvideo.top, Emby
 
 ## 月饼
 DOMAIN,emby.my,Emby
