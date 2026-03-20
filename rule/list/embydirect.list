@@ -1,29 +1,29 @@
   # Saturday.lite
-  - DOMAIN,lite.saturdayvideo.top
+DOMAIN,lite.saturdayvideo.top
 
   # 映月 (IP规则)
-  - IP-CIDR,150.138.89.202/32
+IP-CIDR,150.138.89.202/32
 
   # 硬月 (域名规则)
-  - DOMAIN-SUFFIX,b.hardmoon.net
+DOMAIN-SUFFIX,b.hardmoon.net
 
   # 月饼 (域名规则)
-  - DOMAIN,uhebs.emby.my
+DOMAIN,uhebs.emby.my
 
   # MICU (域名规则)
-  - DOMAIN-SUFFIX,micu.hk
+DOMAIN-SUFFIX,micu.hk
 
   # 众筹 (混合规则)
-  - DOMAIN-SUFFIX,emby.lilyya.lat
-  - DOMAIN-SUFFIX,raisemby.com
-  - DOMAIN,pemby.127066.xyz
-  - DOMAIN,pemby.127255.best
+DOMAIN-SUFFIX,emby.lilyya.lat
+DOMAIN-SUFFIX,raisemby.com
+DOMAIN,pemby.127066.xyz
+DOMAIN,pemby.127255.best
 
   # NANFLIX (域名规则)
-  - DOMAIN,usa.nanflix.net
+DOMAIN,usa.nanflix.net
   
   # 众映
-  - DOMAIN,rais115.huuwnb.cn
+DOMAIN,rais115.huuwnb.cn
   
   #CC
-  - DOMAIN,cc.coemn.com
+DOMAIN,cc.coemn.com
