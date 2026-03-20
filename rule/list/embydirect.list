@@ -1,9 +1,6 @@
 # Saturday.lite
 DOMAIN-SUFFIX,lite.saturdayvideo.top
 
-# 映月 (IP规则)
-IP-CIDR,150.138.89.202/32
-
 # 硬月 (域名规则)
 DOMAIN-SUFFIX,b.hardmoon.net
 
