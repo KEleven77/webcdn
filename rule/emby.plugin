@@ -11,7 +11,7 @@ DOMAIN, film.ohhhh.org, Emby
 
 # CC公益
 DOMAIN, cc.coemn.com, Emby
-DOMAIN, cc.embycc.link, Emby
+DOMAIN, cc.mnyvc.xyz, Emby
 
 #卡戎
 DOMAIN, play.charontv.com, Emby
@@ -24,20 +24,12 @@ DOMAIN, pub1.emby.wtf, Emby
 DOMAIN, pub2.emby.wtf, Emby
 DOMAIN, pub3.emby.wtf, Emby
 
-## 非越公益服
-DOMAIN-SUFFIX,sfcj.org, Emby
-
-
 # 垃圾影音
 DOMAIN, cf.xmsl.org, Emby
 DOMAIN, cf.emby.moe, Emby
 
-
-## temby
-DOMAIN,temby856.285286.xyz, Emby
-
 ## 惊蛰
-DOMAIN-SUFFIX,jingzhe.pro, Emby
+DOMAIN-SUFFIX,emby.jingzhe.pro, Emby
 
 ## Saturday.lite
 DOMAIN,lite.saturdayent.top, Emby
@@ -46,17 +38,6 @@ DOMAIN,lite.saturdayent.top, Emby
 DOMAIN,emby.my,Emby
 DOMAIN,a.emby.my,Emby
 DOMAIN,uhebs.emby.my,DIRECT
-
-
-## 众筹电信防止dns阻断线路
-DOMAIN,zc.mingri.site,DIRECT
-## 众筹普通线路
-DOMAIN,emby.lilyya.lat,DIRECT
-DOMAIN,pemby.127255.best,DIRECT
-DOMAIN,pemby.127066.xyz,DIRECT
-DOMAIN-SUFFIX,raisemby.com,DIRECT
-## 众筹cdn 托底线路体验不佳 保证可用
-DOMAIN,zcemby.mingri.site,DIRECT
 
 #众映
 DOMAIN,rais115.huuwnb.cn,DIRECT
