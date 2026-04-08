@@ -1,4 +1,7 @@
-  # 卡戎
+# Saturday.lite
+DOMAIN-SUFFIX,lite.saturdayent.top
+
+# 卡戎
 DOMAIN,play.charontv.com
 
   # pual电报服
@@ -14,7 +17,7 @@ DOMAIN,cf.xmsl.org
 DOMAIN,cf.emby.moe
 
   # 惊蛰
-DOMAIN-SUFFIX,jingzhe.pro
+DOMAIN-SUFFIX,emby.jingzhe.pro
 
   # 月饼
 DOMAIN,a.emby.my
