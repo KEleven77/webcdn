@@ -1,0 +1,9 @@
+payload:
+- DOMAIN-SUFFIX, adobe.io
+- DOMAIN-SUFFIX, adobestats.io
+- DOMAIN, practivate.adobe.com
+- DOMAIN, activate.adobe.com
+- DOMAIN, genuine.adobe.com
+- DOMAIN-REGEX,^【a-z\d】{10}\.adobe\.io$
+- DOMAIN,cc-api-data.adobe.io
+- DOMAIN,ic.adobe.io
