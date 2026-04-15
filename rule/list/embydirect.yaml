@@ -1,0 +1,22 @@
+payload:
+# 月饼 (域名规则)
+- DOMAIN-SUFFIX,uhebs.emby.my
+
+# MICU (域名规则)
+- DOMAIN-SUFFIX,micu.hk
+
+# 众筹 (混合规则)
+- DOMAIN-SUFFIX,emby.lilyya.lat
+- DOMAIN-SUFFIX,raisemby.com
+- DOMAIN-SUFFIX,pemby.127066.xyz
+- DOMAIN-SUFFIX,pemby.127255.best
+
+# NANFLIX (域名规则)
+- DOMAIN-SUFFIX,usa.nanflix.net
+
+# 众映
+- DOMAIN-SUFFIX,rais115.huuwnb.cn
+
+# CC
+- DOMAIN-SUFFIX,cc.coemn.com
+- DOMAIN-SUFFIX,cc.mnyvc.xyz
