@@ -1,0 +1,16 @@
+payload:
+  # 地区特定 (建议在主配置文件中手动指定组，此处仅罗列域名)
+  - DOMAIN-SUFFIX,netsyo.pro
+  - DOMAIN-SUFFIX,thetvdb.com
+  - DOMAIN-SUFFIX,hdhive.com
+  # 常用代理分流
+  - DOMAIN-KEYWORD,macwk
+  - DOMAIN-SUFFIX,nodeseek.com
+  - DOMAIN-SUFFIX,duangks.com
+  - DOMAIN-SUFFIX,19966998.xyz
+  - DOMAIN-SUFFIX,pay.nft520.cn
+  - DOMAIN,flix.center
+  - DOMAIN,blog.ddsrem.com
+  - DOMAIN,bobplugin.ripperhe.com
+# PT
+  - DOMAIN-SUFFIX,hhanclub.top
