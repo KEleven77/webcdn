@@ -20,3 +20,37 @@ payload:
 # CC
 - DOMAIN-SUFFIX,cc.coemn.com
 - DOMAIN-SUFFIX,cc.mnyvc.xyz
+
+- DOMAIN-KEYWORD,rais115
+- DOMAIN-KEYWORD,tracker
+- DOMAIN-KEYWORD,v6tracker
+- DOMAIN-KEYWORD,ugreen
+# 域名后缀
+- DOMAIN-SUFFIX,kandieng.top
+- DOMAIN-SUFFIX,nullbr.eu.org
+- DOMAIN-SUFFIX,selectgroup.click
+- DOMAIN-SUFFIX,subxiandan.top
+- DOMAIN-SUFFIX,lyzb33.pp
+- DOMAIN-SUFFIX,lyzb.live
+- DOMAIN-SUFFIX,steamserver.net
+- DOMAIN-SUFFIX,myip.ipip.net
+- DOMAIN-SUFFIX,seagmcdn.com
+- DOMAIN-SUFFIX,seagm.com
+- DOMAIN-SUFFIX,cmvideo.cn
+- DOMAIN-SUFFIX,cn.bing.com
+- DOMAIN-SUFFIX,embyhod.com
+- DOMAIN-SUFFIX,oss-china-bucket.c1-click.selectgroup.click
+- DOMAIN-SUFFIX,cloudfront.net
+# 具体域名
+- DOMAIN,oss2-china-south-bucket.selectgroup.click
+- DOMAIN,oss1-china-alibaba-bucket.selectgroup.click
+- DOMAIN,api.xmancdn.net
+- DOMAIN,api-huacloud.net
+- DOMAIN,crhemby.mingri.site
+- DOMAIN,iui.su
+- DOMAIN,book.hsu.life
+- DOMAIN,ad.12306.cn
+- DOMAIN,sdkapp.uve.weibo.com
+# IP 段
+- IP-CIDR,192.243.117.28/32,no-resolve
+- IP-CIDR,96.47.238.20/32,no-resolve
