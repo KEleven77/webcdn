@@ -2,8 +2,7 @@
 #!desc = Emby服务器代理
 #!author = KEleven
 #!icon = https://raw.githubusercontent.com/RuCu6/Loon/main/Icons/app/emby.png
-#!date = 2024-12-30 
-
+#!date = 2026-06-21
 [Rule]
 
 # NMEmby
