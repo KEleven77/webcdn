@@ -23,6 +23,7 @@ DOMAIN, cf.imetyou.top, Emby
 DOMAIN, pub1.emby.wtf, Emby
 DOMAIN, pub2.emby.wtf, Emby
 DOMAIN, pub3.emby.wtf, Emby
+DOMAIN, c.emby.wtf, Emby
 
 # 垃圾影音
 DOMAIN, cf.xmsl.org, Emby
