@@ -1,72 +1,71 @@
-rules:
-    # ==================== 直连 DIRECT ====================
-    - domain_suffix:
-        match: x69saw6.net
-        policy: DIRECT
-        disabled: false
-    - domain_suffix:
-        match: nxns.link
-        policy: DIRECT
-        disabled: false
-    - domain_suffix:
-        match: k8v4dh4.app
-        policy: DIRECT
-        disabled: false
-    - domain:
-        match: lyzb31.app
-        policy: DIRECT
-        disabled: false
-    - domain:
-        match: dns.weixin.qq.com.cn
-        policy: DIRECT
-    - domain:
-        match: dns.weixin.qq.com
-        policy: DIRECT
-    - domain:
-        match: iui.su
-        policy: DIRECT
-    - domain:
-        match: crhemby.mingri.site
-        policy: DIRECT
-    - domain_suffix:
-        match: embyhod.com
-        policy: DIRECT
-    - domain_suffix:
-        match: steamserver.net
-        policy: DIRECT
-    - user_agent:
-        match: '*seeyon-m3*'
-        policy: DIRECT
-    - domain_suffix:
-        match: oa.jggcgs.com
-        policy: DIRECT
-    - domain:
-        match: emby.jingzhe.pro
-        policy: DIRECT
-    - ip_cidr:
-        match: 96.47.238.20/32
-        policy: DIRECT
-    - domain_suffix:
-        match: seagmcdn.com
-        policy: DIRECT
-    - domain_suffix:
-        match: seagm.com
-        policy: DIRECT
-    - domain:
-        match: imap.gmail.com
-        policy: DIRECT
-    - domain:
-        match: smtp.gmail.com
-        policy: DIRECT
-    - domain_keyword:
-        match: ugreen
-        policy: DIRECT
-    - domain_suffix:
-        match: cn.bing.com
-        policy: DIRECT
-    - domain:
-        match: ad.12306.cn
-        policy: DIRECT
-    - domain:
-        match: sdkapp.uve.weibo.com
-        policy: DIRECT
+# ==================== 直连 DIRECT ====================
+- domain_suffix:
+  match: x69saw6.net
+  policy: DIRECT
+  disabled: false
+- domain_suffix:
+  match: nxns.link
+  policy: DIRECT
+  disabled: false
+- domain_suffix:
+  match: k8v4dh4.app
+  policy: DIRECT
+  disabled: false
+- domain:
+  match: lyzb31.app
+  policy: DIRECT
+  disabled: false
+- domain:
+  match: dns.weixin.qq.com.cn
+  policy: DIRECT
+- domain:
+  match: dns.weixin.qq.com
+  policy: DIRECT
+- domain:
+  match: iui.su
+  policy: DIRECT
+- domain:
+  match: crhemby.mingri.site
+  policy: DIRECT
+- domain_suffix:
+  match: embyhod.com
+  policy: DIRECT
+- domain_suffix:
+  match: steamserver.net
+  policy: DIRECT
+- user_agent:
+  match: '*seeyon-m3*'
+  policy: DIRECT
+- domain_suffix:
+  match: oa.jggcgs.com
+  policy: DIRECT
+- domain:
+  match: emby.jingzhe.pro
+  policy: DIRECT
+- ip_cidr:
+  match: 96.47.238.20/32
+  policy: DIRECT
+- domain_suffix:
+  match: seagmcdn.com
+  policy: DIRECT
+- domain_suffix:
+  match: seagm.com
+  policy: DIRECT
+- domain:
+  match: imap.gmail.com
+  policy: DIRECT
+- domain:
+  match: smtp.gmail.com
+  policy: DIRECT
+- domain_keyword:
+  match: ugreen
+  policy: DIRECT
+- domain_suffix:
+  match: cn.bing.com
+  policy: DIRECT
+- domain:
+  match: ad.12306.cn
+  policy: DIRECT
+- domain:
+  match: sdkapp.uve.weibo.com
+  policy: DIRECT
