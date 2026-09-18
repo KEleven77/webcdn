@@ -6,33 +6,33 @@
 [Rule]
 
 # NMEmby
-DOMAIN, film.ohhhh.org, Emby
+DOMAIN,film.ohhhh.org,Emby
 
 # CC公益
-DOMAIN, cc.coemn.com, Emby
-DOMAIN, cc.mnyvc.xyz, Emby
+DOMAIN,cc.coemn.com,Emby
+DOMAIN,cc.mnyvc.xyz,Emby
 
 #卡戎
-DOMAIN, play.charontv.com, Emby
+DOMAIN,play.charontv.com,Emby
 
 #pual电报服
-DOMAIN, cf.imetyou.top, Emby
+DOMAIN,cf.imetyou.top,Emby
 
 #终点站
-DOMAIN, pub1.emby.wtf, Emby
-DOMAIN, pub2.emby.wtf, Emby
-DOMAIN, pub3.emby.wtf, Emby
-DOMAIN, c.emby.wtf, Emby
+DOMAIN,pub1.emby.wtf,Emby
+DOMAIN,pub2.emby.wtf,Emby
+DOMAIN,pub3.emby.wtf,Emby
+DOMAIN,c.emby.wtf,Emby
 
 # 垃圾影音
-DOMAIN, cf.xmsl.org, Emby
-DOMAIN, cf.emby.moe, Emby
+DOMAIN,cf.xmsl.org,Emby
+DOMAIN,cf.emby.moe,Emby
 
 ## 惊蛰
-DOMAIN-SUFFIX,emby.jingzhe.pro, Emby
+DOMAIN-SUFFIX,emby.jingzhe.pro,Emby
 
 ## Saturday.lite
-DOMAIN,lite.saturdayent.top, Emby
+DOMAIN,lite.saturdayent.top,Emby
 
 ## 月饼
 DOMAIN,emby.my,Emby
@@ -45,6 +45,6 @@ DOMAIN,rais115.mrstudio.vip,DIRECT
 DOMAIN-KEYWORD,rais115,DIRECT
 
 ## NANFLIX
-DOMAIN,usa.nanflix.net,DIRECT
+DOMAIN,usa.nanflix.net,Emby
 
 
