@@ -1,3 +1,4 @@
+[Rule]
 #VPS
 DOMAIN-SUFFIX,www.itdog.cn,DIRECT
 DOMAIN-SUFFIX,tianliyun.cn,兜底分流
