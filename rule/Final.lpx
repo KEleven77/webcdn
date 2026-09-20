@@ -3,7 +3,8 @@
 DOMAIN-SUFFIX,www.itdog.cn,DIRECT
 DOMAIN-SUFFIX,tianliyun.cn,兜底分流
 DOMAIN-SUFFIX,www.andnode.com,兜底分流
-DOMAIN-SUFFIX,sadidc.com,兜底分流  
+DOMAIN-SUFFIX,sadidc.com,兜底分流
+DOMAIN-SUFFIX,19966998.xyz,兜底分流
 DOMAIN,hinet.lazycat.cv,DIRECT
 
 #IP测试
