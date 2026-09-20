@@ -64,9 +64,9 @@ DOMAIN-SUFFIX,api-flowercloud.com,DIRECT
 DOMAIN-SUFFIX,api-huacloud.com,DIRECT  
   
 #元数据
-DOMAIN-SUFFIX,thetvdb.com,香港
+DOMAIN-SUFFIX,thetvdb.com,兜底分流
 DOMAIN-SUFFIX,cloudfront.net,DIRECT
-DOMAIN-SUFFIX,themoviedb.org,香港
+DOMAIN-SUFFIX,themoviedb.org,兜底分流
   
 #绿茵直播
 DOMAIN-SUFFIX,lyzb33.pp,DIRECT
