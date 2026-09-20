@@ -183,7 +183,7 @@
   # ====================
 
   # 防止 TG 转圈
-  - IP-CIDR,95.161.76.100/31,REJECT-NO-DROP,no-resolve
+  - IP-CIDR,95.161.76.100/31,REJECT,no-resolve
 
   # 贴吧屏蔽
   - IP-CIDR,180.76.76.200/32,REJECT
