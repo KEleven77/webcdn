@@ -35,7 +35,7 @@
   - DOMAIN-KEYWORD,selectgroup,DIRECT
   - DOMAIN-KEYWORD,oss-china-bucket,DIRECT
 
-  # 泡泡狗/花云等直连
+  # 花云订阅
   - DOMAIN,api.xmancdn.net,DIRECT
   - DOMAIN,api-huacloud.net,DIRECT
   - DOMAIN-SUFFIX,api-flowercloud.com,DIRECT
@@ -100,7 +100,6 @@
   - DOMAIN-SUFFIX,tianliyun.cn,兜底分流
   - DOMAIN-SUFFIX,www.andnode.com,兜底分流
   - DOMAIN-SUFFIX,sadidc.com,兜底分流
-  - DOMAIN-SUFFIX,19966998.xyz,兜底分流
 
   # IP测试
   - DOMAIN-SUFFIX,antping.com,兜底分流
@@ -134,7 +133,7 @@
   # 小A网
   - DOMAIN-SUFFIX,jable.tv,兜底分流
 
-  # duang
+  # Duang
   - DOMAIN,duangks.com,兜底分流
 
   # 支付
@@ -183,10 +182,10 @@
   # ====================
 
   # 防止 TG 转圈
-  - IP-CIDR,95.161.76.100/31,REJECT,no-resolve
+  - IP-CIDR,95.161.76.100/31,REJECT-DROP,no-resolve
 
   # 贴吧屏蔽
-  - IP-CIDR,180.76.76.200/32,REJECT
+  - IP-CIDR,180.76.76.200/32,REJECT,no-resolve
 
-  # 信息收集
-  - URL-REGEX,"\.log\.",REJECT
+  # 信息收集：只能匹配域名，不是完整 URL
+  - DOMAIN-REGEX,\.log\.,REJECT
