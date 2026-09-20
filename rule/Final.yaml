@@ -100,6 +100,7 @@
   - DOMAIN-SUFFIX,tianliyun.cn,兜底分流
   - DOMAIN-SUFFIX,www.andnode.com,兜底分流
   - DOMAIN-SUFFIX,sadidc.com,兜底分流
+  - DOMAIN-SUFFIX,19966998.xyz,兜底分流
 
   # IP测试
   - DOMAIN-SUFFIX,antping.com,兜底分流
