@@ -1,0 +1,44 @@
+name: Sync Loon to Mihomo
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "rule/Final.lpx"
+      - "scripts/loon_to_mihomo.py"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.x"
+
+      - name: Convert Loon to Mihomo
+        run: python scripts/loon_to_mihomo.py
+
+      - name: Commit generated Final.yaml
+        run: |
+          if git diff --quiet -- rule/Final.yaml; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add rule/Final.yaml
+          git commit -m "chore: sync Mihomo rules from Loon"
+          git push
