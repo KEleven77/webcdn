@@ -1,15 +1,15 @@
 [Rule]
 #VPS
 DOMAIN-SUFFIX,itdog.cn,DIRECT
-DOMAIN-SUFFIX,tianliyun.cn,兜底分流 #天理云
-DOMAIN-SUFFIX,andnode.com,兜底分流 #andnode
-DOMAIN-SUFFIX,sadidc.com,兜底分流 #伤心的云
+DOMAIN-SUFFIX,tianliyun.cn,兜底分流 # 天理云
+DOMAIN-SUFFIX,andnode.com,兜底分流 # andnode
+DOMAIN-SUFFIX,sadidc.com,兜底分流 # 伤心的云
 DOMAIN-SUFFIX,19966998.xyz,兜底分流
-DOMAIN,hinet.lazycat.cv,DIRECT #懒猫
-DOMAIN-SUFFIX,jtti.cc,兜底分流 #jtti
-DOMAIN-SUFFIX,acgf.vip,兜底分流 #acgf
-DOMAIN-SUFFIX,tyyunidc.cn,兜底分流 #ty云
-DOMAIN,matrixidc.net,兜底分流 #matrixidc
+DOMAIN,hinet.lazycat.cv,DIRECT # 懒猫
+DOMAIN-SUFFIX,jtti.cc,兜底分流 # jtti
+DOMAIN-SUFFIX,acgf.vip,兜底分流 # acgf
+DOMAIN-SUFFIX,tyyunidc.cn,兜底分流 # ty云
+DOMAIN,matrixidc.net,兜底分流 # matrixidc
 
 #IP测试
 DOMAIN-SUFFIX,antping.com,兜底分流
