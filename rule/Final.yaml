@@ -4,7 +4,7 @@
   # ====================
 
   # VPS
-  - DOMAIN-SUFFIX,www.itdog.cn,DIRECT
+  - DOMAIN-SUFFIX,itdog.cn,DIRECT
   - DOMAIN,hinet.lazycat.cv,DIRECT
 
   # IP测试
