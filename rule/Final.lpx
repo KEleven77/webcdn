@@ -1,3 +1,8 @@
+#!name=兜底分流
+#!desc=兜底分流
+#!author=K11
+#!icon=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/04ProxySoft/zoomearth.png
+
 [Rule]
 #VPS
 DOMAIN-SUFFIX,itdog.cn,DIRECT
