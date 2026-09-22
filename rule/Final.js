@@ -54,6 +54,7 @@ const customRules = [
   'DOMAIN-SUFFIX,thetvdb.com,兜底分流',
   'DOMAIN-SUFFIX,cloudfront.net,DIRECT',
   'DOMAIN-SUFFIX,themoviedb.org,兜底分流',
+  'DOMAIN-SUFFIX,fanart.tv,兜底分流',
   'DOMAIN-SUFFIX,lyzb33.pp,DIRECT',
   'DOMAIN-SUFFIX,lyzb.live,DIRECT',
   'DOMAIN-SUFFIX,lyzb3.app,DIRECT',
