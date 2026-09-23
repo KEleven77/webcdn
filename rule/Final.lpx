@@ -23,6 +23,11 @@
   DOMAIN-SUFFIX,tyyunidc.cn,自定义分流
  # matrixidc
   DOMAIN-SUFFIX,matrixidc.net,自定义分流
+ # fxtransit
+  DOMAIN-SUFFIX,fxtransit.io,自定义分流
+
+
+
 
 #IP测试
 DOMAIN-SUFFIX,antping.com,自定义分流
