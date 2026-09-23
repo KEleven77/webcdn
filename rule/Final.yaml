@@ -21,8 +21,11 @@
 # fxtransit
 - 'DOMAIN-SUFFIX,fxtransit.io,自定义分流'
 
+#观影
+- 'DOMAIN-SUFFIX,xn--wcv59z.com,自定义分流'
 
-
+#mediavault
+- 'DOMAIN-SUFFIX,mediavault.qzz.io,自定义分流'
 
 #IP测试
 - 'DOMAIN-SUFFIX,antping.com,自定义分流'

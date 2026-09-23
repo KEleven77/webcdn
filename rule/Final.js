@@ -20,6 +20,8 @@ const customRules = [
   'DOMAIN-SUFFIX,tyyunidc.cn,自定义分流',
   'DOMAIN-SUFFIX,matrixidc.net,自定义分流',
   'DOMAIN-SUFFIX,fxtransit.io,自定义分流',
+  'DOMAIN-SUFFIX,xn--wcv59z.com,自定义分流',
+  'DOMAIN-SUFFIX,mediavault.qzz.io,自定义分流',
   'DOMAIN-SUFFIX,antping.com,自定义分流',
   'DOMAIN-SUFFIX,myip.ipip.net,DIRECT',
   'DOMAIN-SUFFIX,xiaov.uno,DIRECT',
