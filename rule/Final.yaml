@@ -30,6 +30,9 @@
 #mediavault
 - 'DOMAIN-SUFFIX,mediavault.qzz.io,自定义分流'
 
+#manggo
+- 'DOMAIN,manggo.pylogmon.cn,自定义分流'
+
 #IP测试
 - 'DOMAIN-SUFFIX,antping.com,自定义分流'
 - 'DOMAIN-SUFFIX,myip.ipip.net,DIRECT'
