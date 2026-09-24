@@ -20,6 +20,8 @@
 - 'DOMAIN-SUFFIX,matrixidc.net,自定义分流'
 # fxtransit
 - 'DOMAIN-SUFFIX,fxtransit.io,自定义分流'
+# Fachost
+- 'DOMAIN-SUFFIX,fachost.cloud,自定义分流'
 
 #观影
 - 'IP-CIDR,217.12.220.40/32,自定义分流'
