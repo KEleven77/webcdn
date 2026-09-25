@@ -22,6 +22,7 @@
 - 'DOMAIN-SUFFIX,fxtransit.io,自定义分流'
 # Fachost
 - 'DOMAIN-SUFFIX,fachost.cloud,自定义分流'
+- 'DOMAIN-SUFFIX,dedirock.cn,自定义分流'
 
 #观影
 - 'IP-CIDR,217.12.220.40/32,自定义分流'
