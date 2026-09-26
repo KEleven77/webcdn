@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,gying.si,自定义分流
 
 #mediavault
 DOMAIN-SUFFIX,mediavault.qzz.io,自定义分流
+DOMAIN-SUFFIX,muvyo.com,自定义分流
 
 #manggo
 DOMAIN,manggo.pylogmon.cn,自定义分流
