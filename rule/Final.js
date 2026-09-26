@@ -25,6 +25,7 @@ const customRules = [
   'IP-CIDR,217.12.220.40/32,自定义分流',
   'DOMAIN-SUFFIX,gying.si,自定义分流',
   'DOMAIN-SUFFIX,mediavault.qzz.io,自定义分流',
+  'DOMAIN-SUFFIX,muvyo.com,自定义分流',
   'DOMAIN,manggo.pylogmon.cn,自定义分流',
   'DOMAIN-SUFFIX,antping.com,自定义分流',
   'DOMAIN-SUFFIX,myip.ipip.net,DIRECT',
