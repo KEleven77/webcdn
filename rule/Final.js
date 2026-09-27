@@ -22,6 +22,7 @@ const customRules = [
   'DOMAIN-SUFFIX,fxtransit.io,自定义分流',
   'DOMAIN-SUFFIX,fachost.cloud,自定义分流',
   'DOMAIN-SUFFIX,dedirock.cn,自定义分流',
+  'DOMAIN-SUFFIX,openwebui.cn,自定义分流',
   'IP-CIDR,217.12.220.40/32,自定义分流',
   'DOMAIN-SUFFIX,gying.si,自定义分流',
   'DOMAIN-SUFFIX,mediavault.qzz.io,自定义分流',
