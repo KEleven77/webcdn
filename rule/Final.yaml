@@ -24,6 +24,9 @@
 - 'DOMAIN-SUFFIX,fachost.cloud,自定义分流'
 - 'DOMAIN-SUFFIX,dedirock.cn,自定义分流'
 
+#DNS
+- 'DOMAIN-SUFFIX,xns.one,自定义分流'
+
 #openwebui
 - 'DOMAIN-SUFFIX,openwebui.cn,自定义分流'
 #观影
