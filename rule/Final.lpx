@@ -32,6 +32,9 @@
 #DNS
 DOMAIN-SUFFIX,xns.one,自定义分流
 
+#cctv
+DOMAIN-SUFFIX,cctv.cn,DIRECT
+
 #openwebui
 DOMAIN-SUFFIX,openwebui.cn,自定义分流
 #观影
