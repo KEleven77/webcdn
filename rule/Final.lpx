@@ -82,7 +82,7 @@ DOMAIN-KEYWORD,astro,狮城
 DOMAIN-KEYWORD,wavve,狮城
   
 #nodeseek
-DOMAIN-SUFFIX,nodeseek.com,美国
+DOMAIN-SUFFIX,nodeseek.com,自定义分流
   
 #pt
 DOMAIN-KEYWORD,tracker,DIRECT
