@@ -49,7 +49,7 @@ const customRules = [
   'IP-CIDR,60.250.121.103/32,台湾',
   'DOMAIN-KEYWORD,astro,狮城',
   'DOMAIN-KEYWORD,wavve,狮城',
-  'DOMAIN-SUFFIX,nodeseek.com,美国',
+  'DOMAIN-SUFFIX,nodeseek.com,自定义分流',
   'DOMAIN-KEYWORD,tracker,DIRECT',
   'DOMAIN-KEYWORD,v6tracker,DIRECT',
   'DOMAIN,oss2-china-south-bucket.selectgroup.click,DIRECT',
