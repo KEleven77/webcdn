@@ -29,6 +29,8 @@
 
 #cctv
 - 'DOMAIN-SUFFIX,cctv.cn,DIRECT'
+- 'DOMAIN-SUFFIX,cctv.com,DIRECT'
+- 'DOMAIN-SUFFIX,yangshipin.cn,DIRECT'
 
 #openwebui
 - 'DOMAIN-SUFFIX,openwebui.cn,自定义分流'

@@ -24,6 +24,8 @@ const customRules = [
   'DOMAIN-SUFFIX,dedirock.cn,自定义分流',
   'DOMAIN-SUFFIX,xns.one,自定义分流',
   'DOMAIN-SUFFIX,cctv.cn,DIRECT',
+  'DOMAIN-SUFFIX,cctv.com,DIRECT',
+  'DOMAIN-SUFFIX,yangshipin.cn,DIRECT',
   'DOMAIN-SUFFIX,openwebui.cn,自定义分流',
   'IP-CIDR,217.12.220.40/32,自定义分流',
   'DOMAIN-SUFFIX,gying.si,自定义分流',
