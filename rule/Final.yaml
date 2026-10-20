@@ -23,6 +23,8 @@
 # Fachost
 - 'DOMAIN-SUFFIX,fachost.cloud,自定义分流'
 - 'DOMAIN-SUFFIX,dedirock.cn,自定义分流'
+#vmiss
+- 'DOMAIN-SUFFIX,app.vmiss.com,自定义分流'
 
 #DNS
 - 'DOMAIN-SUFFIX,xns.one,自定义分流'
