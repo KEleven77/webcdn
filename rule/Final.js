@@ -32,6 +32,7 @@ const customRules = [
   'DOMAIN-SUFFIX,gying.si,自定义分流',
   'DOMAIN-SUFFIX,mediavault.qzz.io,自定义分流',
   'DOMAIN-SUFFIX,muvyo.com,自定义分流',
+  'DOMAIN,l.muvyo.com,自定义分流',
   'DOMAIN,manggo.pylogmon.cn,自定义分流',
   'DOMAIN-SUFFIX,antping.com,自定义分流',
   'DOMAIN-SUFFIX,myip.ipip.net,DIRECT',
