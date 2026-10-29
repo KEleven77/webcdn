@@ -24,6 +24,8 @@ const customRules = [
   'DOMAIN-SUFFIX,dedirock.cn,自定义分流',
   'DOMAIN-SUFFIX,app.vmiss.com,自定义分流',
   'DOMAIN-SUFFIX,xns.one,自定义分流',
+  'DOMAIN-SUFFIX,ios.prod.cloud.netflix.com,REJECT',
+  'DOMAIN-SUFFIX,ios.ngp.prod.cloud.netflix.com,REJECT',
   'DOMAIN-SUFFIX,cctv.cn,DIRECT',
   'DOMAIN-SUFFIX,cctv.com,DIRECT',
   'DOMAIN-SUFFIX,yangshipin.cn,DIRECT',
