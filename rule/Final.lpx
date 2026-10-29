@@ -34,6 +34,10 @@
 #DNS
 DOMAIN-SUFFIX,xns.one,自定义分流
 
+#Netflix检测
+DOMAIN-SUFFIX,ios.prod.cloud.netflix.com,REJECT
+DOMAIN-SUFFIX,ios.ngp.prod.cloud.netflix.com,REJECT
+
 #cctv
 DOMAIN-SUFFIX,cctv.cn,DIRECT
 DOMAIN-SUFFIX,cctv.com,DIRECT
