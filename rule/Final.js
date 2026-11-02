@@ -38,7 +38,6 @@ const customRules = [
   'DOMAIN,manggo.pylogmon.cn,自定义分流',
   'DOMAIN-SUFFIX,antping.com,自定义分流',
   'DOMAIN-SUFFIX,myip.ipip.net,DIRECT',
-  'DOMAIN-SUFFIX,xiaov.uno,DIRECT',
   'DOMAIN-SUFFIX,sub.czrk168.top,自定义分流',
   'DOMAIN-SUFFIX,anxia.com,DIRECT',
   'DOMAIN-SUFFIX,gimy115.top,自定义分流',
