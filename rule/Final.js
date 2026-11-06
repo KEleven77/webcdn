@@ -40,7 +40,7 @@ const customRules = [
   'DOMAIN-SUFFIX,myip.ipip.net,DIRECT',
   'DOMAIN-SUFFIX,sub.czrk168.top,自定义分流',
   'DOMAIN-SUFFIX,anxia.com,DIRECT',
-  'DOMAIN-SUFFIX,gimy115.top,DIRECT',
+  'DOMAIN-SUFFIX,gimy115.top,自定义分流',
   'DOMAIN,nyxen.org,自定义分流',
   'DOMAIN-SUFFIX,workingspaceshq.com,DIRECT',
   'DOMAIN-SUFFIX,linuxdo.org,DIRECT',
