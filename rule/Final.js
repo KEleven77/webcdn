@@ -39,6 +39,8 @@ const customRules = [
   'DOMAIN-SUFFIX,antping.com,自定义分流',
   'DOMAIN-SUFFIX,myip.ipip.net,DIRECT',
   'DOMAIN-SUFFIX,sub.czrk168.top,自定义分流',
+  'DOMAIN-SUFFIX,ikuuu.pw,自定义分流',
+  'DOMAIN-SUFFIX,ikuuu.top,自定义分流',
   'DOMAIN-SUFFIX,anxia.com,DIRECT',
   'DOMAIN-SUFFIX,gimy115.top,自定义分流',
   'DOMAIN,nyxen.org,自定义分流',

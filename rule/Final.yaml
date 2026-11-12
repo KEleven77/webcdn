@@ -58,6 +58,8 @@
 
 #订阅
 - 'DOMAIN-SUFFIX,sub.czrk168.top,自定义分流'
+- 'DOMAIN-SUFFIX,ikuuu.pw,自定义分流'
+- 'DOMAIN-SUFFIX,ikuuu.top,自定义分流'
 
 #115
 - 'DOMAIN-SUFFIX,anxia.com,DIRECT'
